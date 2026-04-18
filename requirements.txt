@@ -1,0 +1,12 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+fastapi
+uvicorn
+gunicorn
+pydantic
+requests
+-e .
