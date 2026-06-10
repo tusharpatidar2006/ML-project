@@ -4,9 +4,13 @@ pandas
 matplotlib
 seaborn
 streamlit
+scikit-learn
+xgboost
+catboost
 fastapi
 uvicorn
 gunicorn
 pydantic
 requests
--e .
+dill
+#-e .
